@@ -23,13 +23,10 @@
 </div>
 
 <!-- Contact Information Section -->
-<h2 align="center">Contact Me 🤙</h2>
+<h2 align="center">Contact Me </h2>
 <p align="center">
-  Interested in collaborating or have any questions? Feel free to reach out to me:
-</p>
-<p align="center">
-  📧 Email: <a href="mailto:rithigasri383@gmail.com">rithigasri383@gmail.com</a><br>
-  💼 LinkedIn: <a href="www.linkedin.com/in/rithigasrib">Rithiga Sri B</a>
+  Email: <a href="mailto:rithigasri383@gmail.com">rithigasri383@gmail.com</a><br>
+  LinkedIn: <a href="www.linkedin.com/in/rithigasrib">Rithiga Sri B</a>
 </p>
 
 <!-- Footer Section -->
