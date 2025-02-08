@@ -23,11 +23,16 @@
 <!-- Contact Information Section -->
 <h2 align="center">Contact Me </h2>
 <p align="center">
-  Email: <a href="mailto:rithigasri383@gmail.com">rithigasri383@gmail.com</a><br>
-  LinkedIn: <a href="www.linkedin.com/in/rithigasrib">Rithiga Sri B</a>
+  <a href="mailto:rithigasri383@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="email button" />
+  </a>
+  <a href="https://www.linkedin.com/in/rithigasrib">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin button" />
+  </a>
 </p>
+
 
 <!-- Footer Section -->
 <p align="center">
-  Let's connect and create something amazing together! 😊
+  Transforming ideas into solutions, one project at a time! 
 </p>
