@@ -8,15 +8,14 @@
   <img src="https://img.shields.io/badge/-Machine%20Learning-green" alt="ML">
   <img src="https://img.shields.io/badge/-Deep%20Learning-orange" alt="DL">
   <img src="https://img.shields.io/badge/-Digital%20Image%20Processing-red" alt="DIP">
-  <img src="https://img.shields.io/badge/-Neural%20Networks-purple" alt="NN">
-  <img src="https://img.shields.io/badge/-Applied%20AI-yellow" alt="Applied AI">
 </p>
 
 <!-- GitHub Stats Section -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rithigasri&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="150" alt="stats graph" />
-<img src="https://streak-stats.demolab.com?user=Rithigasri&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rithigasri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rithigasri&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true" height="150" alt="stats graph" />
+<img src="https://streak-stats.demolab.com?user=Rithigasri&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rithigasri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph" />
+
 
 </div>
 
